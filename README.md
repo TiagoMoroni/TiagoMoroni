@@ -16,4 +16,4 @@ I'm currently working at IDBA Solutions as a core Fullstack Developer, dealing w
 ### Contact Me
 
 [![E-mail](https://img.shields.io/badge/tiagopmoroni@gmail.com-F5F5F5?style=flat&logo=Mail.Ru&logoColor=blue)](mailto:tiagopmoroni@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/tiago--moroni-F5F5F5?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/tiago-moroni-28496722a/)
+[![LinkedIn](https://img.shields.io/badge/tiago--moroni-F5F5F5?style=flat&logo=Linkedin&logoColor=blue)](www.linkedin.com/in/tiago-moroni)
